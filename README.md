@@ -17,7 +17,4 @@ A simple **console-based banking application** written in **Core Java**, demonst
   - Low initial balance
   - Insufficient funds
 
----
-
-## 📁 Folder Structure
 
